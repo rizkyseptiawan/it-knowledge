@@ -1,0 +1,1 @@
+**PHPWord** mirip dengan [[TinyButStrong]] dalam fungsinya yaitu untuk melakukan replace data tag yang ada pada word dokumen. Namun, kalo dari pengalamanku pribadi PHPWord sedikit bermasalah dalam penganan table looping, ==jika data loop terlalu banyak maka dokumen akan menjadi berantakan==.
