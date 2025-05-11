@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful Packages/PHP/Laravel-Elasticsearch.md",
+                "file": "Docker Images/Gotenberg.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Laravel-Elasticsearch"
+              "title": "Gotenberg"
             }
           }
         ],
@@ -144,12 +144,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Useful Packages/PHP/Laravel-Elasticsearch.md",
+                "file": "Docker Images/Gotenberg.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Laravel-Elasticsearch"
+              "title": "Outgoing links from Gotenberg"
             }
           },
           {
@@ -210,13 +210,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "886834409a9e6dea",
+  "active": "b7ed63fa76e23b3d",
   "lastOpenFiles": [
-    "Useful Packages/PHP/Laravel-Elasticsearch.md",
     "Useful Packages/PHP/PHPWord.md",
+    "Docker Images/Gotenberg.md",
+    "[Gotenberg.md",
+    "Useful Packages/PHP/Laravel-Elasticsearch.md",
+    "Docker Images",
+    "Welcome.md",
     "Useful Packages/PHP/TinyButStrong.md",
     "Untitled.canvas",
-    "Welcome.md",
     "Useful Packages/PHP",
     "Useful Packages"
   ]
